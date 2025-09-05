@@ -1,2 +1,25 @@
-# Old-Age-Home-Web-Application
-This is a beginner-friendly web application built with HTML, CSS, JavaScript, PHP, and MySQL. It demonstrates the basics of full-stack development through simple form handling, backend processing, and database integration. The project serves as a practical example for students learning how to build and connect frontend and backend systems.
+# Dailylog_Management_system_Codeiginter-_PHP_Responsive
+Daily log system helps to provide regular insight into our system on the daily basis, instead of auditing devices after an event occurs.
+This project helps monitoring and analysis, pin point a potential data reach.
+
+#STEPS TO USE THIS PROJECT
+
+Step 1:
+Create a database in Mysql. Name it as 'dailylog'
+
+Step 2: 
+Place all the files which I uploaded above into the server folder . Name the project as 'log'.
+
+Step 3:
+Check the db for the username and password under 'tbl_admin' table. Create a new, if you want it.
+
+Step 4:
+Open the browser and type the below url:
+http://localhost/log
+
+Thats all!
+
+
+
+
+

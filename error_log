@@ -1,0 +1,2 @@
+[29-Apr-2020 15:21:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::DeleteVideo() in /home/be7aqfrmvkkl/public_html/application/controllers/AdminCon.php on line 511
+[29-Apr-2020 15:21:40 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::DeleteVideo() in /home/be7aqfrmvkkl/public_html/application/controllers/AdminCon.php on line 511
